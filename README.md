@@ -38,9 +38,7 @@ Meu objetivo é **transformar dados em conhecimento** e aplicar técnicas de **I
 ---
 
 ## 📬 Contato
-- 💼 [LinkedIn](https://www.linkedin.com) *(adicione seu perfil aqui)*  
-- 📧 Email: *(adicione seu email aqui)*  
-
+- 💼 [LinkedIn](https://www.linkedin.com/in/monteiro01)   
 ---
 
 ✨ Se você também é apaixonado por dados e IA, fique à vontade para explorar meus projetos e colaborar!
