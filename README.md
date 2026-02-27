@@ -26,10 +26,9 @@
   <section>
     <h2>📂 Projetos em Destaque</h2>
     <ul>
-      <li>Previsão de Séries Temporais → modelos para prever tendências e padrões</li>
-      <li>Classificação de Imagens → redes neurais convolucionais para reconhecimento visual</li>
-      <li>Análise Exploratória de Dados (EDA) → dashboards interativos e insights acionáveis</li>
-      <li>Modelos de NLP → análise de sentimentos e classificação de textos</li>
+      <li> <a href="https://github.com/Monteiro-01/Sistema-Banc-rio"><strong>Sistema-Bancário</strong></a><br> Sistema bancário simples       em Python. </li> 
+      <li> <a href="https://github.com/Monteiro-01/Atidades-de-concatena-o-com-def"><strong>Atividades de concatenação com def</strong>       </a><br> Exercícios de concatenação e funções em Python, voltados para prática e aprendizado. </li>
+      <li> <a href="https://github.com/Monteiro-01/Sistema-Banc-rio-com-POO"><strong>Sistema-Bancário-com-POO</strong></a><br> Versão         orientada a objetos do sistema bancário, aplicando conceitos de classes e encapsulamento. </li>
     </ul>
   </section>
 
