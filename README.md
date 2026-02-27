@@ -62,12 +62,6 @@
       </tr>
     </table>
   </section>
-
-  <section>
-    <h2>📈 Objetivo</h2>
-    <p>Meu objetivo é transformar dados em conhecimento e aplicar técnicas de IA e ML para resolver problemas reais, sempre buscando inovação e impacto positivo.</p>
-  </section>
-
   <section>
     <h2>📬 Contato</h2>
     <p>💼 <a href="https://www.linkedin.com/in/monteiro01" target="_blank">LinkedIn</a></p>
